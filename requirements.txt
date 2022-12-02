@@ -53,7 +53,7 @@ jupyter_server==1.18.1
 jupyterlab-widgets==3.0.3
 jupyterlab_pygments==0.1.2
 kiwisolver==1.4.4
-libiconv==1.16
+#libiconv==1.16
 libsodium==1.0.18
 libxml2==2.9.14
 libxslt==1.1.35
