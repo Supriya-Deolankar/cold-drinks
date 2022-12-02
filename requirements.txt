@@ -159,6 +159,6 @@ wheel==0.37.1
 widgetsnbextension==4.0.3
 wincertstore==0.2
 #winpty==0.4.3
-zeromq==4.3.4
+#zeromq==4.3.4
 zipp==3.10.0
 zlib==1.2.13
