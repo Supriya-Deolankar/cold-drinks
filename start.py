@@ -11,7 +11,7 @@ import os
 usrc.create()
 @st.cache
 def model():
-    return torch.hub.load(os.getcwd(), 'custom', source='local', path="best.pt",force_reload=True) 
+    return torch.hub.load('ultralytics/yolov5', 'custom', path='best.pt') 
 
 model=model()
 class VideoProcessor:
