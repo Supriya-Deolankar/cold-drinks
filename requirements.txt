@@ -36,7 +36,7 @@ gitpython==3.1.29
 glob2==0.7
 google-auth==2.14.1
 google-auth-oauthlib==0.4.6
-google-crc32==1.5.0
+#google-crc32==1.5.0
 grpcio==1.50.0
 idna==2.10
 importlib-metadata==5.0.0
