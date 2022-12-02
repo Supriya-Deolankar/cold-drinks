@@ -148,7 +148,7 @@ tzlocal==4.2
 urllib3==1.26.6
 validators==0.20.0
 #vc==14.2
-vs2015_runtime==14.27.29016
+#vs2015_runtime==14.27.29016
 watchdog==2.1.9
 wcwidth==0.2.5
 webencodings==0.5.1
