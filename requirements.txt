@@ -102,7 +102,7 @@ pyrsistent==0.18.0
 #python==3.9.15
 python-dateutil==2.8.2
 #python-dotenv==0.21.0
-python-fastjsonschema==2.16.2
+#python-fastjsonschema==2.16.2
 pytz==2022.6
 pytz-deprecation-shim==0.1.0.post0
 pywin32==302
